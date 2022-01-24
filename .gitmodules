@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/kon3155/kon3155.github.io.git
+	branch = master
